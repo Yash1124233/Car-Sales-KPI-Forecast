@@ -9,4 +9,8 @@ How to Use – Steps to open PBIX, see charts, run Python model if needed.
 Predictions – the 3-month forecast CSV was generated.
 
 Interactive Features – What-If parameters, KPI correlations, slicers.
+## Download Dashboard
+
+You can download the Power BI dashboard file here:  
+[Car Sales KPI Dashboard (.pbix)](PowerBI/Scaletech.pbix)
 
